@@ -1,0 +1,8 @@
+The blockchain is an open-source public database run by a decentralized network of computer nodes. 
+Unlike traditional databases, the blockchain stores/groups information in 'blocks', which are encrypted and immutable. 
+
+Smart contracts are programs based on a set of rules, which are stored on the blockchain. 
+Smart contracts allow anyone to interact with them in order execute functions/actions given specific rules are met.  
+
+Transactions are able to change data on the blockchain, as opposed to scripts which can read data on the blockchain. 
+Transactions typically cost gas fees. Scripts are entirely free.   
